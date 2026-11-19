@@ -1,0 +1,6 @@
+{
+  "name": "Ganaka",
+  "description": "Minimalist tape calculator and GST billing calculator with real-time tax breakdowns, tape logs, and clean pastel aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
